@@ -21,7 +21,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="../../d2/d8e/longest__substr__without__repeating__chars_8cpp.html#a7ceda2ca29468f0029be0c1adc339c07" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="../../d2/d8e/longest__substr__without__repeating__chars_8cpp.html#a7ceda2ca29468f0029be0c1adc339c07" target="_top" xlink:title="This function takes a string as input, and returns the length of the longest substring that contains ...">
 <polygon fill="white" stroke="black" points="74,-19.5 74,-38.5 117,-38.5 117,-19.5 74,-19.5"/>
 <text text-anchor="middle" x="95.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00">solver</text>
 </a>
