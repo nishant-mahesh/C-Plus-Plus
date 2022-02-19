@@ -141,17 +141,17 @@ var NAVTREEINDEX =
 "cpp/thread/lock.html",
 "d1/d83/classuint256__t.html#a90ce75bec5b525de55bbf92c564a2261",
 "d2/d8a/classrange__queries_1_1heavy__light__decomposition_1_1_h_l_d.html#a2dfbda148aad0bfaba2ebfda9ebc915a",
-"d4/d32/inorder__successor__of__bst_8cpp.html#a72483e3f6933e004a8d86371e8a990db",
-"d5/d58/class_test_cases.html#aa3aa3d5bf666f327ee8e2d11d397b06e",
-"d6/d30/classmachine__learning_1_1adaline.html#ab11242d9ad5b03a75911e29b04f78fd3",
-"d7/d7a/namespacebinomial.html",
-"d8/d99/connected__components__with__dsu_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"d9/dee/classdouble__linked__list.html",
-"db/d03/namespacewildcard__matching.html",
-"dc/d61/classgraph_1_1_graph.html#a3755ec9e6a842238c7f4aac10b661981",
-"dd/d91/class_fenwick_tree.html",
-"de/dde/lowest__common__ancestor_8cpp.html#a483bb8ccf42aaf7375a83e91490eda1e",
-"globals_func_d.html"
+"d4/d32/fibonacci__fast_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"d5/d45/sublist__search_8cpp.html#a70ca8d0267008e09cfa50b4e2ddfbe53",
+"d6/d30/classmachine__learning_1_1adaline.html#a082f758fb55fe19f22b3df66f89b2325",
+"d7/d75/postfix__evaluation_8cpp.html#a4c27f949c9d6659be9f5bd2ccbe1360a",
+"d8/d95/vector__ops_8hpp.html#ae10178b082f0205c326550877d998e5d",
+"d9/dde/classbinary__search__tree.html#aa08f65f6f3bfcb14f8c3d1e65305ae50",
+"da/df2/durand__kerner__roots_8cpp.html#a2c35b320ace8677f9b331faf94f8b2fd",
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#aaddc683af581b51351e1023d2a01ef3b",
+"dd/d47/namespacemath.html#abc46c784a297fc1d2eb8b33a327fba4c",
+"de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#a534645d1aabdf1a7e5897c85376f173d",
+"functions_u.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
